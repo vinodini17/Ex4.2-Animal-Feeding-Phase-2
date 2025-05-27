@@ -114,7 +114,7 @@ public class DetectCollider : MonoBehaviour
 ```
 ## OUTPUT :
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/60839871-9278-4b06-894b-acc474054fe1)
 
 ## RESULT :
 
